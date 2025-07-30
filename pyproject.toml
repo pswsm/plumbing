@@ -1,0 +1,12 @@
+[project]
+name = "plumbing"
+version = "0.1.0"
+description = "A small piping library for python"
+readme = "README.md"
+authors = [{ name = "Pau Figueras", email = "git@pswsm.cat" }]
+requires-python = ">=3.13"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
