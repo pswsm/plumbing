@@ -1,6 +1,6 @@
 [project]
-name = "plumbing"
-version = "0.1.0"
+name = "plumbing-awesome"
+version = "1.0.0"
 description = "A small piping library for python"
 readme = "README.md"
 authors = [{ name = "Pau Figueras", email = "git@pswsm.cat" }]
